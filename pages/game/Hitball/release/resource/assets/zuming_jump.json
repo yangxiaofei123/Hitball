@@ -1,0 +1,25 @@
+﻿{
+"res":{
+	"zuming_jump0000": {"x":0,"y":0,"w":100,"h":121},
+	"zuming_jump0001": {"x":100,"y":0,"w":100,"h":121},
+	"zuming_jump0002": {"x":0,"y":121,"w":100,"h":121},
+	"zuming_jump0003": {"x":100,"y":121,"w":100,"h":121},
+	"zuming_jump0004": {"x":0,"y":242,"w":100,"h":121},
+	"zuming_jump0005": {"x":100,"y":242,"w":100,"h":121},
+	"zuming_jump0006": {"x":0,"y":363,"w":100,"h":121}
+},
+"frames": {
+	"zuming_jump": {
+		"totalFrame": 7,
+		"childrenFrame": [
+			{"res":"zuming_jump0000","x":-52,"y":-119.95},
+			{"res":"zuming_jump0001","x":-52,"y":-119.95},
+			{"res":"zuming_jump0002","x":-52,"y":-119.95},
+			{"res":"zuming_jump0003","x":-52,"y":-119.95},
+			{"res":"zuming_jump0004","x":-52,"y":-119.95},
+			{"res":"zuming_jump0005","x":-52,"y":-119.95},
+			{"res":"zuming_jump0006","x":-52,"y":-119.95}
+		]
+	}
+}
+}

@@ -1,0 +1,21 @@
+﻿{
+"res":{
+	"zuming_fly0000": {"x":0,"y":0,"w":150,"h":80},
+	"zuming_fly0001": {"x":150,"y":0,"w":150,"h":80},
+	"zuming_fly0002": {"x":300,"y":0,"w":150,"h":80},
+	"zuming_fly0003": {"x":0,"y":80,"w":150,"h":80},
+	"zuming_fly0004": {"x":150,"y":80,"w":150,"h":80}
+},
+"frames": {
+	"zuming_fly": {
+		"totalFrame": 5,
+		"childrenFrame": [
+			{"res":"zuming_fly0000","x":-68,"y":-70},
+			{"res":"zuming_fly0001","x":-68,"y":-70},
+			{"res":"zuming_fly0002","x":-68,"y":-70},
+			{"res":"zuming_fly0003","x":-68,"y":-70},
+			{"res":"zuming_fly0004","x":-68,"y":-70}
+		]
+	}
+}
+}

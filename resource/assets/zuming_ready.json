@@ -1,0 +1,23 @@
+﻿{
+"res":{
+	"zuming_ready0000": {"x":0,"y":0,"w":81,"h":151},
+	"zuming_ready0001": {"x":81,"y":0,"w":81,"h":151},
+	"zuming_ready0002": {"x":0,"y":0,"w":81,"h":151},
+	"zuming_ready0003": {"x":81,"y":0,"w":81,"h":151},
+	"zuming_ready0004": {"x":0,"y":0,"w":81,"h":151},
+	"zuming_ready0005": {"x":81,"y":0,"w":81,"h":151}
+},
+"frames": {
+	"zuming_ready": {
+		"totalFrame": 6,
+		"childrenFrame": [
+			{"res":"zuming_ready0000","x":-39.65,"y":-145.95},
+			{"res":"zuming_ready0001","x":-39.65,"y":-145.95},
+			{"res":"zuming_ready0002","x":-39.65,"y":-145.95},
+			{"res":"zuming_ready0003","x":-39.65,"y":-145.95},
+			{"res":"zuming_ready0004","x":-39.65,"y":-145.95},
+			{"res":"zuming_ready0005","x":-39.65,"y":-145.95,"action":"finish"}
+		]
+	}
+}
+}

@@ -1,0 +1,13 @@
+﻿{
+"res":{
+	"zuming_jump0000": {"x":0,"y":0,"w":81,"h":151}
+},
+"frames": {
+	"zuming_jump": {
+		"totalFrame": 1,
+		"childrenFrame": [
+			{"res":"zuming_jump0000","x":-39.65,"y":-145.95}
+		]
+	}
+}
+}

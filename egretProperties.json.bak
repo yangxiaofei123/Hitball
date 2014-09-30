@@ -1,0 +1,13 @@
+{
+	"document_class": "GameApp",
+	"modules": [
+		{
+			"name": "core"
+		},
+		{"name":"module" , "path":"."}
+	],
+	"native": {
+		"path_ignore": []
+	},
+	"egret_version": "1.0.5"
+}

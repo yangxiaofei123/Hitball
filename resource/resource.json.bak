@@ -1,0 +1,50 @@
+{
+"resources":
+	[
+		{"name":"bgImage","type":"image","url":"assets/bg.png"},
+		{"name":"farHill","type":"image","url":"assets/farHill.png"},
+		{"name":"hill","type":"image","url":"assets/hill.png"},
+		{"name":"board","type":"image","url":"assets/board.png"},
+		{"name":"cloud1","type":"image","url":"assets/cloud1.png"},
+		{"name":"cloud2","type":"image","url":"assets/cloud2.png"},
+		{"name":"cloud3","type":"image","url":"assets/cloud3.png"},
+		{"name":"grass","type":"image","url":"assets/grass.png"},
+		{"name":"startboard","type":"image","url":"assets/startboard.png"},
+		{"name":"tower","type":"image","url":"assets/tower.png"},		
+		{"name":"tree","type":"image","url":"assets/tree.png"},
+
+		{"name":"resultBg" ,"type":"image" , "url":"assets/result.png"},
+		{"name":"replay_btn","type":"image","url":"assets/replay.png"},
+		{"name":"share_btn","type":"image","url":"assets/shareBTN.png"},
+		{"name":"more_btn","type":"image","url":"assets/more.png"},		
+		{"name":"failedBg","type":"image","url":"assets/failed.png"},
+		{"name":"tell_btn","type":"image","url":"assets/tellFrs.png"},
+		{"name":"arrow","type":"image","url":"assets/arrow.png"},
+
+		{"name":"chenglong_png","type":"image","url":"assets/chenglong.png"},
+		{"name":"chenglong_json","type":"json","url":"assets/chenglong.json"},
+		{"name":"fire_png","type":"image","url":"assets/fire.png"},
+		{"name":"fire_json","type":"json","url":"assets/fire.json"},
+
+		{"name":"zuming_begin_png","type":"image","url":"assets/zuming_begin.png"},
+		{"name":"zuming_begin_json","type":"json","url":"assets/zuming_begin.json"},
+		{"name":"zuming_ready_png","type":"image","url":"assets/zuming_ready.png"},
+		{"name":"zuming_ready_json","type":"json","url":"assets/zuming_ready.json"},
+		{"name":"zuming_pose_png","type":"image","url":"assets/zuming_pose.png"},
+		{"name":"zuming_pose_json","type":"json","url":"assets/zuming_pose.json"},
+		{"name":"zuming_fly_png","type":"image","url":"assets/zuming_fly.png"},
+		{"name":"zuming_fly_json","type":"json","url":"assets/zuming_fly.json"},
+		{"name":"zuming_stop_png","type":"image","url":"assets/zuming_stop.png"},
+		{"name":"zuming_stop_json","type":"json","url":"assets/zuming_stop.json"},
+		{"name":"zuming_jump_png","type":"image","url":"assets/zuming_jump.png"},
+		{"name":"zuming_jump_json","type":"json","url":"assets/zuming_jump.json"},		
+		{"name":"bitmapFont","type":"font","url":"assets/textfont.fnt"},
+		{"name":"feiji-export","type":"font","url":"assets/feiji-export.fnt"}
+
+	],
+
+"groups":
+	[
+        {"name":"preload","keys":"fire_png,fire_json,arrow,tell_btn,cloud3,bitmapFont,bitmapFont1,bgImage,resultBg,failedBg,replay_btn,share_btn,more_btn,chenglong_png,chenglong_json,zuming_pose_png,zuming_pose_json,zuming_stop_png,zuming_stop_json,zuming_fly_png,zuming_fly_json,zuming_begin_png,zuming_begin_json,zuming_ready_png,zuming_ready_json,zuming_jump_png,zuming_jump_json,farHill,hill,board,cloud1,cloud2,grass,startboard,tower,tree"}
+	]
+}

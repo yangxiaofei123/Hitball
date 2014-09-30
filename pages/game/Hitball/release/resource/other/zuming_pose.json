@@ -1,0 +1,21 @@
+﻿{
+"res":{
+	"zuming_pose0000": {"x":0,"y":0,"w":81,"h":151},
+	"zuming_pose0001": {"x":81,"y":0,"w":81,"h":151},
+	"zuming_pose0002": {"x":162,"y":0,"w":81,"h":151},
+	"zuming_pose0003": {"x":81,"y":0,"w":81,"h":151},
+	"zuming_pose0004": {"x":0,"y":0,"w":81,"h":151}
+},
+"frames": {
+	"zuming_pose": {
+		"totalFrame": 5,
+		"childrenFrame": [
+			{"res":"zuming_pose0000","x":-39.65,"y":-145.95},
+			{"res":"zuming_pose0001","x":-39.65,"y":-145.95},
+			{"res":"zuming_pose0002","x":-39.65,"y":-145.95},
+			{"res":"zuming_pose0003","x":-39.65,"y":-145.95},
+			{"res":"zuming_pose0004","x":-39.65,"y":-145.95}
+		]
+	}
+}
+}

@@ -1,0 +1,9 @@
+{
+     "name": "module",
+     "dependence": ["core"],
+     "source":"src",
+     "file_list": [
+         "md5.js",
+	 "md5.d.ts"
+     ]
+}
